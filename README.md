@@ -53,11 +53,12 @@ The **EIT Measurement App** is a MATLAB-based application that provides the foll
 ### Measurement Workflow
 
 1. **Configure Settings**:
-   - Define measurement parameters such as current, frequency, and pattern type using the app’s interface.
+   - Define measurement parameters such as current, frequencies, and pattern type using the app’s interface.
 
 2. **Run Measurements**:
    - Select “Run Measurement” to capture data and save results.
    - Use “Continuous” mode for automated repetitive measurements.
+   - All measurement runs are saved as txt-files, which contain the measurement setup
 
 3. **Analyze Results**:
    - Reconstruct the conductivity distribution using FEM models.
