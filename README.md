@@ -62,7 +62,7 @@ The **EIT Measurement App** is a MATLAB-based application that provides the foll
 
 3. **Analyze Results**:
    - Reconstruct the conductivity distribution using FEM models.
-
+ ![Application](images/app.png)
 ### Using Sample Measurements
 
 1. Pre-recorded measurements are provided in the `Sample_Measurements` folder.
