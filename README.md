@@ -109,6 +109,9 @@ The results include:
 - Reconstructed conductivity distributions using the FEM model.
 - Analysis of deviations caused by changes in the medium
 
+## Sciopy
+For Python users, there is a complementary library called [Sciopy](https://github.com/EITLabworks/sciopy), which provides similar functionality for EIT applications.
+
 ---
 
 ##  LICENSE
